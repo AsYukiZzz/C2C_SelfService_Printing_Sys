@@ -10,4 +10,11 @@
     </parent>
 
     <artifactId>MerchantAPI</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>xyz.saturnhalo</groupId>
+            <artifactId>Core</artifactId>
+        </dependency>
+    </dependencies>
 </project>
